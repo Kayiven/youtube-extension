@@ -25,7 +25,13 @@
   "suggested_key": {
    "default": "Alt+I"
   },
+<<<<<<< HEAD
   "description": "Increase YouTube volume"
+=======
+  "description": "Increase YouTube volume i"
+=======
+  "description": "Increase YouTube volume testing"
+>>>>>>> fixing-small-bugs
  },
  "volume-down": {
   "suggested_key": {
